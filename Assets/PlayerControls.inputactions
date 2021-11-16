@@ -1,0 +1,33 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "0a947384-ad92-4825-bd5f-2a3e0ff6505c",
+            "actions": [
+                {
+                    "name": "Grow",
+                    "type": "Button",
+                    "id": "d02cda9a-ae8b-448e-a8db-fe4fc54870a4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c83cfb43-2dfd-4fd7-a36d-fb73b50499a7",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Grow",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
